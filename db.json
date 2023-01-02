@@ -3,6 +3,11 @@
     {
       "title": "Estudar vue.js 3",
       "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Estudar React",
+      "completed": false,
       "id": 2
     },
     {
