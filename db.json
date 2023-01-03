@@ -17,8 +17,7 @@
     }
   ]
   
-  "banckmarkData":[
-   "consolidated":[
+  "consolidated":[
       {
          "description":{
             "pt":"Emissão de CO2/receita bruta",
@@ -111,5 +110,4 @@
          "totalFactor":0.43
       }
    ]
-]
 }
